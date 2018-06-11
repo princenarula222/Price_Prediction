@@ -1,7 +1,7 @@
 # Price_Prediction
 Implementation of univariate linear regression using MATLAB
 
-There are two models. One model utilizes the gradient descent optimation algorithm. Other model utilizes the normal equation for optimization. 
+There are two models. One model utilizes the gradient descent optimization algorithm. Other model utilizes the normal equation for optimization. 
 
 1. To train and test the gradient descent model, run grad_desc_model.m.
 
